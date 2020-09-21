@@ -1,2 +1,2 @@
-# Python-Projects-
+# Python-Projects
 First Repository for Python Projects 
